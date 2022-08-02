@@ -1,6 +1,5 @@
 The URL of my "github-final-project" repository
-
+https://github.com/SundousKh/github-final-project.git
 
 The URL of my "LICENSE.md" file
-
-
+https://github.com/SundousKh/github-final-project/blob/main/README.md
