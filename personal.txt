@@ -6,3 +6,6 @@ https://github.com/SundousKh/github-final-project/blob/main/README.md
 
 The URL of my "README" file
 https://github.com/SundousKh/github-final-project/blob/main/README.md
+
+The URL of my "CODE_OF_CONDUCT.md" file 
+https://github.com/SundousKh/github-final-project/blob/main/CODE_OF_CONDUCT.md
