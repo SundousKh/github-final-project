@@ -9,3 +9,9 @@ https://github.com/SundousKh/github-final-project/blob/main/README.md
 
 The URL of my "CODE_OF_CONDUCT.md" file 
 https://github.com/SundousKh/github-final-project/blob/main/CODE_OF_CONDUCT.md
+
+The URL of my "CONTRIBUTING.md" file 
+https://github.com/SundousKh/github-final-project/blob/main/CONTRIBUTING.md
+
+The URL of my "simple-interest.sh" file 
+https://github.com/SundousKh/github-final-project/blob/main/simple-interest.sh
