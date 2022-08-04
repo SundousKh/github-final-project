@@ -1,3 +1,7 @@
+A:
+URLs for the part 1
+-------------------
+
 The URL of my "github-final-project" repository
 https://github.com/SundousKh/github-final-project.git
 
@@ -15,3 +19,15 @@ https://github.com/SundousKh/github-final-project/blob/main/CONTRIBUTING.md
 
 The URL of my "simple-interest.sh" file 
 https://github.com/SundousKh/github-final-project/blob/main/simple-interest.sh
+
+
+B:
+URLs for the part 1
+-------------------
+https://github.com/SundousKh/jbbmo-Introduction-to-Git-and-GitHub.git
+
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/3513
+
+https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/pull/3514
+
+
